@@ -1,12 +1,15 @@
 {
-    "count":  14,
+    "count":  16,
     "products":  [
                      {
                          "id":  "INT-00001",
-                         "name":  "F1",
+                         "name":  "F1 elektrischer Hubwagen ",
                          "price_eur":  935,
-                         "datasheet_url":  null,
-                         "thumbnail_url":  "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/F1/_thumbnail.jpg",
+                         "datasheet_url":  "https://cdn.ep-portal.net/datasheets/F1/F1-en.pdf?v=gh4t3m0p",
+                         "datasheets":  {
+                                            "de-DE":  "https://bastian-hue.github.io/introp-bilder/datasheets/Pallet_Trucks/F1_elektrischer_Hubwagen/F1-de-DE.pdf"
+                                        },
+                         "thumbnail_url":  "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/F1/02.jpg",
                          "images":  [
                                         "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/F1/01.jpg",
                                         "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/F1/02.jpg",
@@ -24,6 +27,7 @@
                          "name":  "F2",
                          "price_eur":  835,
                          "datasheet_url":  null,
+                         "datasheets":  null,
                          "thumbnail_url":  "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/F2/_thumbnail.jpg",
                          "images":  [
                                         "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/F2/01.jpg",
@@ -63,6 +67,7 @@
                          "name":  "F3",
                          "price_eur":  760,
                          "datasheet_url":  null,
+                         "datasheets":  null,
                          "thumbnail_url":  "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/F3/_thumbnail.jpg",
                          "images":  [
                                         "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/F3/01.jpg",
@@ -81,6 +86,7 @@
                          "name":  "F4",
                          "price_eur":  935,
                          "datasheet_url":  "https://cdn.ep-portal.net/datasheets/F4/F4-de-DE.pdf?v=hwe7gs5o",
+                         "datasheets":  null,
                          "thumbnail_url":  "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/F4/_thumbnail.jpg",
                          "images":  [
                                         "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/F4/01.jpg",
@@ -113,6 +119,7 @@
                          "name":  "F4-201",
                          "price_eur":  1576,
                          "datasheet_url":  null,
+                         "datasheets":  null,
                          "thumbnail_url":  "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/F4_201/_thumbnail.jpg",
                          "images":  [
                                         "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/F4_201/01.jpg",
@@ -140,6 +147,7 @@
                          "name":  "EPL153",
                          "price_eur":  905,
                          "datasheet_url":  null,
+                         "datasheets":  null,
                          "thumbnail_url":  "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/EPL153/_thumbnail.jpg",
                          "images":  [
                                         "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/EPL153/01.jpg",
@@ -172,6 +180,7 @@
                          "name":  "EPL153-1",
                          "price_eur":  1000,
                          "datasheet_url":  "",
+                         "datasheets":  null,
                          "thumbnail_url":  "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/EPL1531/_thumbnail.jpg",
                          "images":  [
                                         "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/EPL1531/01.jpg",
@@ -193,6 +202,7 @@
                          "name":  "EPL154",
                          "price_eur":  930,
                          "datasheet_url":  null,
+                         "datasheets":  null,
                          "thumbnail_url":  "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/EPL154/_thumbnail.jpg",
                          "images":  [
                                         "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/EPL154/01.jpg",
@@ -211,6 +221,7 @@
                          "name":  "EPL185",
                          "price_eur":  1000,
                          "datasheet_url":  null,
+                         "datasheets":  null,
                          "thumbnail_url":  "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/EPL185/_thumbnail.jpg",
                          "images":  [
                                         "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/EPL185/01.jpg",
@@ -263,6 +274,7 @@
                          "name":  "WPL202",
                          "price_eur":  4626,
                          "datasheet_url":  null,
+                         "datasheets":  null,
                          "thumbnail_url":  "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/WPL202/_thumbnail.jpg",
                          "images":  [
                                         "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/WPL202/01.jpg",
@@ -304,6 +316,7 @@
                          "name":  "EPT20-ET2L",
                          "price_eur":  1548,
                          "datasheet_url":  null,
+                         "datasheets":  null,
                          "thumbnail_url":  "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/EPT20-ET2L/_thumbnail.jpg",
                          "images":  [
                                         "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/EPT20-ET2L/01.jpg",
@@ -327,6 +340,7 @@
                          "name":  "EPT20-15ET2H",
                          "price_eur":  1710,
                          "datasheet_url":  null,
+                         "datasheets":  null,
                          "thumbnail_url":  "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/EPT20-15ET2H/_thumbnail.jpg",
                          "images":  [
                                         "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/EPT20-15ET2H/01.jpg",
@@ -350,6 +364,7 @@
                          "name":  "KSi201",
                          "price_eur":  4286,
                          "datasheet_url":  null,
+                         "datasheets":  null,
                          "thumbnail_url":  "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/KSi201/_thumbnail.jpg",
                          "images":  [
                                         "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/KSi201/01.jpg",
@@ -373,12 +388,35 @@
                          "name":  "EXP15",
                          "price_eur":  12500,
                          "datasheet_url":  "",
+                         "datasheets":  null,
                          "thumbnail_url":  "https://bastian-hue.github.io/introp-bilder/AGV_AMR/EXP15/01.jpg",
                          "images":  [
                                         "https://bastian-hue.github.io/introp-bilder/AGV_AMR/EXP15/01.jpg",
                                         "https://bastian-hue.github.io/introp-bilder/AGV_AMR/EXP15/02.jpg",
                                         "https://bastian-hue.github.io/introp-bilder/AGV_AMR/EXP15/03.png",
                                         "https://bastian-hue.github.io/introp-bilder/AGV_AMR/EXP15/04.jpg"
+                                    ]
+                     },
+                     {
+                         "id":  "INT-00099",
+                         "name":  "Column building Program",
+                         "price_eur":  1200,
+                         "datasheet_url":  "",
+                         "datasheets":  null,
+                         "thumbnail_url":  "https://bastian-hue.github.io/introp-bilder/AGV_AMR/Column_Progr./01.jpg",
+                         "images":  [
+
+                                    ]
+                     },
+                     {
+                         "id":  "INT-00100",
+                         "name":  "Automated Pallet Pickup Program",
+                         "price_eur":  3000,
+                         "datasheet_url":  "",
+                         "datasheets":  null,
+                         "thumbnail_url":  null,
+                         "images":  [
+
                                     ]
                      }
                  ]
