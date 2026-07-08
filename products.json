@@ -26,9 +26,9 @@
                          "id":  "INT-00002",
                          "name":  "F2",
                          "price_eur":  835,
-                         "datasheet_url":  null,
+                         "datasheet_url":  "",
                          "datasheets":  null,
-                         "thumbnail_url":  "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/F2/_thumbnail.jpg",
+                         "thumbnail_url":  "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/F2/10.jpg",
                          "images":  [
                                         "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/F2/01.jpg",
                                         "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/F2/02.jpg",
@@ -403,9 +403,12 @@
                          "price_eur":  1200,
                          "datasheet_url":  "",
                          "datasheets":  null,
-                         "thumbnail_url":  "https://bastian-hue.github.io/introp-bilder/AGV_AMR/Column_Progr./01.jpg",
+                         "thumbnail_url":  "https://bastian-hue.github.io/introp-bilder/AGV_AMR/Column_building_Program/02.jpg",
                          "images":  [
-
+                                        "https://bastian-hue.github.io/introp-bilder/AGV_AMR/Column_building_Program/01.jpg",
+                                        "https://bastian-hue.github.io/introp-bilder/AGV_AMR/Column_building_Program/02.jpg",
+                                        "https://bastian-hue.github.io/introp-bilder/AGV_AMR/Column_building_Program/03.jpg",
+                                        "https://bastian-hue.github.io/introp-bilder/AGV_AMR/Column_building_Program/04.jpg"
                                     ]
                      },
                      {
