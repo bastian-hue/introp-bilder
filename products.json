@@ -391,7 +391,10 @@
                          "name":  "EXP15",
                          "price_eur":  12500,
                          "datasheet_url":  "",
-                         "datasheets":  null,
+                         "datasheets":  {
+                                            "de":  "https://bastian-hue.github.io/introp-bilder/datasheets/AGV_AMR/EXP15/EXP15-DE.pdf",
+                                            "EXP15-EN-brochure-21.07-multi-task-1":  "https://bastian-hue.github.io/introp-bilder/datasheets/AGV_AMR/EXP15/EXP15-EN-brochure-21.07-multi-task-1.pdf"
+                                        },
                          "thumbnail_url":  "https://bastian-hue.github.io/introp-bilder/AGV_AMR/EXP15/01.jpg",
                          "images":  [
                                         "https://bastian-hue.github.io/introp-bilder/AGV_AMR/EXP15/01.jpg",
