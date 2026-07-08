@@ -66,9 +66,9 @@
                          "id":  "INT-00003",
                          "name":  "F3",
                          "price_eur":  760,
-                         "datasheet_url":  null,
+                         "datasheet_url":  "",
                          "datasheets":  null,
-                         "thumbnail_url":  "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/F3/_thumbnail.jpg",
+                         "thumbnail_url":  "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/F3/09.jpg",
                          "images":  [
                                         "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/F3/01.jpg",
                                         "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/F3/02.png",
@@ -86,8 +86,11 @@
                          "name":  "F4",
                          "price_eur":  935,
                          "datasheet_url":  "https://cdn.ep-portal.net/datasheets/F4/F4-de-DE.pdf?v=hwe7gs5o",
-                         "datasheets":  null,
-                         "thumbnail_url":  "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/F4/_thumbnail.jpg",
+                         "datasheets":  {
+                                            "de-DE":  "https://bastian-hue.github.io/introp-bilder/datasheets/Pallet_Trucks/F4/F4-de-DE.pdf",
+                                            "en":  "https://bastian-hue.github.io/introp-bilder/datasheets/Pallet_Trucks/F4/F4-en.pdf"
+                                        },
+                         "thumbnail_url":  "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/F4/09.jpg",
                          "images":  [
                                         "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/F4/01.jpg",
                                         "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/F4/02.jpg",
