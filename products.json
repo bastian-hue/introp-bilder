@@ -239,10 +239,13 @@
                          "id":  "INT-00009",
                          "name":  "EPL185",
                          "type":  "Product",
-                         "description":  null,
+                         "description":  "Entdecken Sie die EPL185\nDer EPL185 kombiniert Stabilität, Stärke und Kompaktheit in einem Design. Mit einer Tragfähigkeit von 1,8 Tonnen, schwimmenden Stabilisierungsrädern und einem herausnehmbaren Li-Ion-Akku mit 48V/20Ah gewährleistet er einen sicheren und agilen Betrieb. Sein integrierter Ladegerät und die optionale Schnellladung bieten maximale Flexibilität, während das Stecker-Batterie-Design mit schützendem Metallgehäuse Sicherheit und Zuverlässigkeit erhöht.",
                          "price_eur":  1000,
-                         "datasheet_url":  null,
-                         "datasheets":  null,
+                         "datasheet_url":  "",
+                         "datasheets":  {
+                                            "de-DE":  "https://bastian-hue.github.io/introp-bilder/datasheets/Pallet_Trucks/EPL185/EPL185-de-DE.pdf",
+                                            "en":  "https://bastian-hue.github.io/introp-bilder/datasheets/Pallet_Trucks/EPL185/EPL185-en.pdf"
+                                        },
                          "thumbnail_url":  "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/EPL185/_thumbnail.jpg",
                          "images":  [
                                         "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/EPL185/01.jpg",
