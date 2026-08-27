@@ -1,5 +1,5 @@
 {
-    "count":  19,
+    "count":  20,
     "products":  [
                      {
                          "id":  "INT-00001",
@@ -513,6 +513,20 @@
                          "type":  "Integration",
                          "description":  "Block #1 EXP15 Integration:\n- Projektmanagement\n- EXP 15\n- Bodenmarkierung Park- und Sperrbereiche\n- Risikobeurteilung\n- Warnschilder\n- Training und Integration",
                          "price_eur":  0,
+                         "rental_price_eur":  null,
+                         "datasheet_url":  "",
+                         "datasheets":  null,
+                         "thumbnail_url":  null,
+                         "images":  [
+
+                                    ]
+                     },
+                     {
+                         "id":  "INT-50001",
+                         "name":  "Lösung #2: XP15 - Integration ",
+                         "type":  "Integration",
+                         "description":  "The whole Integration includes \n- Automation Readiness Workshop \n- Solution Workshop \n- Material Set and XP15\n- Implementation on Side \n- Training and Risk assessment\n- Hypercare ",
+                         "price_eur":  32.5,
                          "rental_price_eur":  null,
                          "datasheet_url":  "",
                          "datasheets":  null,
