@@ -512,7 +512,7 @@
                          "name":  "Lösung #1: EXP15 - Integration",
                          "type":  "Integration",
                          "description":  "Block #1 EXP15 Integration:\n- Projektmanagement\n- EXP 15\n- Bodenmarkierung Park- und Sperrbereiche\n- Risikobeurteilung\n- Warnschilder\n- Training und Integration",
-                         "price_eur":  0,
+                         "price_eur":  20000,
                          "rental_price_eur":  null,
                          "datasheet_url":  "",
                          "datasheets":  null,
@@ -526,14 +526,12 @@
                          "name":  "Lösung #2: XP15 - Integration ",
                          "type":  "Integration",
                          "description":  "The whole Integration includes \n- Automation Readiness Workshop \n- Solution Workshop \n- Material Set and XP15\n- Implementation on Side \n- Training and Risk assessment\n- Hypercare ",
-                         "price_eur":  32.5,
+                         "price_eur":  32499.99,
                          "rental_price_eur":  null,
                          "datasheet_url":  "",
                          "datasheets":  null,
-                         "thumbnail_url":  null,
-                         "images":  [
-
-                                    ]
+                         "thumbnail_url":  "https://bastian-hue.github.io/introp-bilder/AGV_AMR/Lösung_#2_XP15_-_Integration/01.png",
+                         "images":  "https://bastian-hue.github.io/introp-bilder/AGV_AMR/Lösung_#2_XP15_-_Integration/01.png"
                      }
                  ]
 }
