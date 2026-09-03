@@ -1,5 +1,5 @@
 {
-    "count":  20,
+    "count":  21,
     "products":  [
                      {
                          "id":  "INT-00001",
@@ -506,6 +506,18 @@
                          "images":  [
 
                                     ]
+                     },
+                     {
+                         "id":  "INT-10006",
+                         "name":  "Automation Readiness Day",
+                         "type":  "Service",
+                         "description":  "",
+                         "price_eur":  1200,
+                         "rental_price_eur":  null,
+                         "datasheet_url":  "",
+                         "datasheets":  null,
+                         "thumbnail_url":  "https://bastian-hue.github.io/introp-bilder/Services/Automation_Readiness_Day/01.png",
+                         "images":  "https://bastian-hue.github.io/introp-bilder/Services/Automation_Readiness_Day/01.png"
                      },
                      {
                          "id":  "INT-50000",
