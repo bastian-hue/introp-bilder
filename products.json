@@ -502,10 +502,8 @@
                          "rental_price_eur":  null,
                          "datasheet_url":  "",
                          "datasheets":  null,
-                         "thumbnail_url":  null,
-                         "images":  [
-
-                                    ]
+                         "thumbnail_url":  "https://bastian-hue.github.io/introp-bilder/AGV_AMR/Site_risk_Assessment/01.png",
+                         "images":  "https://bastian-hue.github.io/introp-bilder/AGV_AMR/Site_risk_Assessment/01.png"
                      },
                      {
                          "id":  "INT-10006",
