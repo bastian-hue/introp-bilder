@@ -517,7 +517,7 @@
                      },
                      {
                          "id":  "INT-50000",
-                         "name":  "Lösung #1: EXP15 - Integration",
+                         "name":  "Integration 1: EXP15 - Integration",
                          "type":  "Integration",
                          "description":  "EXP15 Integration:\n- Projektmanagement\n- EXP 15\n- Bodenmarkierung Park- und Sperrbereiche\n- Risikobeurteilung\n- Warnschilder\n- Training und Integration",
                          "price_eur":  20000,
@@ -529,7 +529,7 @@
                      },
                      {
                          "id":  "INT-50001",
-                         "name":  "Lösung #2: XP15 - Integration ",
+                         "name":  "Integration 2: XP15 - Integration ",
                          "type":  "Integration",
                          "description":  "XP15 Integration:\n- Projektmanagement\n- EXP 15\n- Bodenmarkierung Park- und Sperrbereiche\n- Risikobeurteilung\n- Warnschilder\n- Training\n- Implementierung \n- Hypercare",
                          "price_eur":  33499.99,
