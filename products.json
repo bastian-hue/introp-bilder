@@ -1,5 +1,5 @@
 {
-    "count":  21,
+    "count":  22,
     "products":  [
                      {
                          "id":  "INT-00001",
@@ -200,11 +200,14 @@
                          "id":  "INT-00007",
                          "name":  "EPL153-1",
                          "type":  "Product",
-                         "description":  "",
+                         "description":  "Ideal für leicht bis mittelstark beanspruchte Anwendungen, der EPL153 ist für den Warenverkehr in Lagern, Geschäften und Logistikeinrichtungen konzipiert. Seine kompakte Größe und die Polyurethanräder ermöglichen ein reibungsloses Manövrieren in engen Gängen, während der Lithium-Akku und das integrierte Ladegerät schnelles und bequemes Aufladen ermöglichen. Mit optionalen Lenkrollen für erhöhte Stabilität passt sich der EPL153 leicht an verschiedene Arbeitsumgebungen an.",
                          "price_eur":  1000,
                          "rental_price_eur":  null,
                          "datasheet_url":  "",
-                         "datasheets":  null,
+                         "datasheets":  {
+                                            "de-DE":  "https://bastian-hue.github.io/introp-bilder/datasheets/Pallet_Trucks/EPL153-1/EPL1531-de-DE.pdf",
+                                            "en":  "https://bastian-hue.github.io/introp-bilder/datasheets/Pallet_Trucks/EPL153-1/EPL1531-en.pdf"
+                                        },
                          "thumbnail_url":  "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/EPL1531/_thumbnail.jpg",
                          "images":  [
                                         "https://bastian-hue.github.io/introp-bilder/Pallet_Trucks/EPL1531/01.jpg",
@@ -446,6 +449,29 @@
                                         "https://bastian-hue.github.io/introp-bilder/AGV_AMR/EXP15/02.jpg",
                                         "https://bastian-hue.github.io/introp-bilder/AGV_AMR/EXP15/03.png",
                                         "https://bastian-hue.github.io/introp-bilder/AGV_AMR/EXP15/04.jpg"
+                                    ]
+                     },
+                     {
+                         "id":  "INT-00097",
+                         "name":  "XP15",
+                         "type":  "Product",
+                         "description":  "Der XP15 automatisiert den flexiblen Paletten- und Materialtransport in Produktion und Logistik. Er bewegt Paletten, Behälter und Transportwagen autonom zwischen Wareneingang, Lager, Produktion und Maschinen – ohne aufwendige Infrastruktur.\n\nOb kontinuierlicher Materialfluss, feste Übergabestationen oder bedarfsgesteuerte Transporte: Der XP15 lässt sich schnell einrichten und flexibel an unterschiedliche Prozesse und Umgebungen anpassen.",
+                         "price_eur":  25000,
+                         "rental_price_eur":  null,
+                         "datasheet_url":  "",
+                         "datasheets":  {
+                                            "XP15-EN-Brochure-3":  "https://bastian-hue.github.io/introp-bilder/datasheets/AGV_AMR/XP15/XP15-EN-Brochure-3.pdf",
+                                            "XP15ï¼DEï¼Brochure-1":  "https://bastian-hue.github.io/introp-bilder/datasheets/AGV_AMR/XP15/XP15ï¼DEï¼Brochure-1.pdf"
+                                        },
+                         "thumbnail_url":  "https://bastian-hue.github.io/introp-bilder/AGV_AMR/XP15/03.jpg",
+                         "images":  [
+                                        "https://bastian-hue.github.io/introp-bilder/AGV_AMR/XP15/01.jpg",
+                                        "https://bastian-hue.github.io/introp-bilder/AGV_AMR/XP15/02.jpg",
+                                        "https://bastian-hue.github.io/introp-bilder/AGV_AMR/XP15/03.jpg",
+                                        "https://bastian-hue.github.io/introp-bilder/AGV_AMR/XP15/04.jpg",
+                                        "https://bastian-hue.github.io/introp-bilder/AGV_AMR/XP15/05.jpg",
+                                        "https://bastian-hue.github.io/introp-bilder/AGV_AMR/XP15/06.png",
+                                        "https://bastian-hue.github.io/introp-bilder/AGV_AMR/XP15/07.jpg"
                                     ]
                      },
                      {
