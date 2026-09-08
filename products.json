@@ -433,7 +433,7 @@
                          "name":  "EXP15",
                          "type":  "Product",
                          "description":  "",
-                         "price_eur":  12500,
+                         "price_eur":  12000,
                          "rental_price_eur":  null,
                          "datasheet_url":  "",
                          "datasheets":  {
@@ -481,7 +481,7 @@
                          "id":  "INT-00105",
                          "name":  "XP15MM",
                          "type":  "Product",
-                         "description":  "1250€/Monat POC",
+                         "description":  null,
                          "price_eur":  31000,
                          "rental_price_eur":  null,
                          "datasheet_url":  "",
